@@ -1,0 +1,14 @@
+body{
+  background-color: #E8BFFB;
+  text-align:left;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: purple;
+  border-width: 6.2px;
+}
+p
+{
+  font-style: italic;
+}
